@@ -1,0 +1,12 @@
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/bin/Debug/net8.0/EventHubsExample.Consumer.deps.json
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/bin/Debug/net8.0/EventHubsExample.Consumer.dll
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/bin/Debug/net8.0/EventHubsExample.Consumer.pdb
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/EventHubsExample.Consumer.csproj.AssemblyReference.cache
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/EventHubsExample.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/EventHubsExample.Consumer.AssemblyInfoInputs.cache
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/EventHubsExample.Consumer.AssemblyInfo.cs
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/EventHubsExample.Consumer.csproj.CoreCompileInputs.cache
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/EventHubsExample.Consumer.dll
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/refint/EventHubsExample.Consumer.dll
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/EventHubsExample.Consumer.pdb
+/Users/sonferder/AvvaMobile/Example/EventHubsExample/EventHubsExample.Consumer/obj/Debug/net8.0/ref/EventHubsExample.Consumer.dll
